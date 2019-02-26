@@ -1,2 +1,2 @@
-# Maximum_Sub_array-_Algorithm
+# Maximum_Sub_array_Algorithm
 Divide and Conquer approach
